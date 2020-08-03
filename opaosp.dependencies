@@ -1,6 +1,6 @@
 [
   {
-    "repository": "GZR-Kernels/kernel_oneplus_msm8996",
+    "repository": "OPAOSP-Devices/kernel_oneplus_msm8996",
     "target_path": "kernel/oneplus/msm8996",
     "branch": "10.0"
   },
@@ -10,8 +10,8 @@
     "branch": "10.0"
   },
   {
-    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "repository": "OPAOSP/packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
-    "branch": "lineage-17.0"
+    "branch": "10.0"
   }
 ]
